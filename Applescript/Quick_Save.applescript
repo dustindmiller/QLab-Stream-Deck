@@ -1,0 +1,1 @@
+do shell script "echo /save | nc -u -w 0 127.0.0.1 53535"
